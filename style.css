@@ -2,8 +2,11 @@ input
 {
     margin: 10px;
 }
-button
+select
 {
-    border-color: aqua;
-    cursor: pointer;
+    margin: 10px;
+}
+form
+{
+    text-align: center;
 }
